@@ -1,7 +1,7 @@
 # ImageJ server
 *Monitors a folder and processes all images which are placed there*
 
-[screenshot](screenshot.jpg)
+![screenshot](screenshot.jpg)
 
 
 ## Table of Contents
@@ -21,7 +21,7 @@ This is intended to be the backbone of advanced workflows, where a complex bioim
 
 ## <a name="video">2. Watch the video</a>
 
-[![Watch the video](https://youtu.be/P3hPkR3dgQ8)](https://youtu.be/P3hPkR3dgQ8)
+[![Watch the video](yt_thumbnail.jpg)](https://youtu.be/P3hPkR3dgQ8)
 
 
 ## <a name="contact">3. Contact</a>
